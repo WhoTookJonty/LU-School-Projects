@@ -1,0 +1,37 @@
+﻿  bagtestmain.cpp
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\book.h(74,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\ABag.h(82,2): warning C4018: '<': signed/unsigned mismatch
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\ABag.h(79): message : while compiling class template member function 'bool ABag<KVpair<Key,E>>::find(KVpair<Key,E> &) const'
+          with
+          [
+              Key=int,
+              E=std::string
+          ]
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\bagtestmain.cpp(133): message : see reference to class template instantiation 'ABag<KVpair<Key,E>>' being compiled
+          with
+          [
+              Key=int,
+              E=std::string
+          ]
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\ABag.h(44,2): warning C4018: '<': signed/unsigned mismatch
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\ABag.h(41): message : while compiling class template member function 'bool ABag<KVpair<Key,E>>::remove(KVpair<Key,E> &)'
+          with
+          [
+              Key=int,
+              E=std::string
+          ]
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\ABag.h(31,31): warning C4018: '<=': signed/unsigned mismatch
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\ABag.h(28): message : while compiling class template member function 'bool ABag<KVpair<Key,E>>::addItem(const KVpair<Key,E> &)'
+          with
+          [
+              Key=int,
+              E=std::string
+          ]
+D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\CSIS_215_Lab1\bagtestmain.cpp(141): message : see reference to function template instantiation 'bool ABag<KVpair<Key,E>>::addItem(const KVpair<Key,E> &)' being compiled
+          with
+          [
+              Key=int,
+              E=std::string
+          ]
+  CSIS_215_Lab1.vcxproj -> D:\All School\Sophomore\CSIS 215\CSIS_215_Lab1\Debug\CSIS_215_Lab1.exe

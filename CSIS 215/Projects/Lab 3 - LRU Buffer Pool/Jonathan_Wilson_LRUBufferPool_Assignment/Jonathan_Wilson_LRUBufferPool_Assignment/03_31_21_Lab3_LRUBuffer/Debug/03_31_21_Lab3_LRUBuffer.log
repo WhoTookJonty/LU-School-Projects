@@ -1,0 +1,5 @@
+﻿  main.cpp
+D:\All School\Sophomore\CSIS 215\Projects\Jonathan_Wilson_LRUBufferPool_Assignment\03_31_21_Lab3_LRUBuffer\BufferBlock.h(29,36): warning C4018: '<': signed/unsigned mismatch
+D:\All School\Sophomore\CSIS 215\Projects\Jonathan_Wilson_LRUBufferPool_Assignment\03_31_21_Lab3_LRUBuffer\LRUBufferPool.h(24,4): warning C4551: function call missing argument list
+D:\All School\Sophomore\CSIS 215\Projects\Jonathan_Wilson_LRUBufferPool_Assignment\03_31_21_Lab3_LRUBuffer\LRUBufferPool.h(30,25): warning C4018: '<': signed/unsigned mismatch
+  03_31_21_Lab3_LRUBuffer.vcxproj -> D:\All School\Sophomore\CSIS 215\Projects\Jonathan_Wilson_LRUBufferPool_Assignment\03_31_21_Lab3_LRUBuffer\Debug\03_31_21_Lab3_LRUBuffer.exe

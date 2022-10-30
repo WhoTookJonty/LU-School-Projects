@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Jacob\OneDrive\Liberty University\2020-2021\2nd Semester\CSIS 215\Projects\04_19_Lab4_SOLists\book.h(78,1): warning C4005: 'INFINITY': macro redefinition
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(90): message : see previous definition of 'INFINITY'
+C:\Users\Jacob\OneDrive\Liberty University\2020-2021\2nd Semester\CSIS 215\Projects\04_19_Lab4_SOLists\main.cpp(74,3): warning C4551: function call missing argument list
+  04_19_Lab4_SOLists.vcxproj -> C:\Users\Jacob\OneDrive\Liberty University\2020-2021\2nd Semester\CSIS 215\Projects\04_19_Lab4_SOLists\Debug\04_19_Lab4_SOLists.exe
